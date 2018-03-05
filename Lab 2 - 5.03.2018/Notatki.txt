@@ -1,0 +1,7 @@
+Ctrl + B 	->	Usuwanie zepsutych przewodów
+Ctrl + Space	->	Quick Drop
+Ctrl + H	-> 	Context Help
+
+Pêtla for - conditional terminal
+Pêtle - shift register
+	jak nic nie zrobisz to zero a pozniej inicjalizacja z poprzedniego programu.
