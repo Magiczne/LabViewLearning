@@ -13,6 +13,7 @@
 		<Item Name="main" Type="Folder" URL="../main">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="dzielenie.vi" Type="VI" URL="../dzielenie.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
